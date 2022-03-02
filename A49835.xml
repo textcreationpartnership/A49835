@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The exercise of the spirit in spiritual things and the many good and peaceable fruits of righteousness experimentally witnessed ...</title>
+            <author>Laythes, Thomas, d. 1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49835</idno>
+            <idno type="STC">Wing L751</idno>
+            <idno type="STC">ESTC R24001</idno>
+            <idno type="EEBO-CITATION">07940305</idno>
+            <idno type="OCLC">ocm 07940305</idno>
+            <idno type="VID">40566</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49835)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40566)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1209:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The exercise of the spirit in spiritual things and the many good and peaceable fruits of righteousness experimentally witnessed ...</title>
+                  <author>Laythes, Thomas, d. 1701.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spiritual exercises.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40566:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 102 -->
+            <p>THE EXERCISE OF THE SPIRIT IN <hi>Spiritual Things:</hi> AND The many good and peaceable Fruits of Righte<g ref="char:EOLhyphen"/>ouſneſs Experimentally Witneſſed in that great Work of God upon my Soul and Spirit, in the time of my firſt Convincement of the Truth, and Since.</p>
+            <p>With ſome Experiences in the time of my Travel and Exerciſes therein: To thoſe whoſe Faces are turned Zion-ward, and Travelling on towards their Eternal and Everlaſting Reſt.</p>
+            <q>
+               <p>And for all People to Try and E<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amine themſelves, by that <hi>Manifeſtation of the Spirit that is given to every Man to profit withal,</hi>
+               </p>
+               <bibl>1 Cor. 12.7.</bibl>
+            </q>
+            <q>
+               <p>No Chaſtning for the preſent ſeemeth to be Joyous, but grievous: Nevertheleſs, afterward, it yieldeth the peaceable fruit of Righte<g ref="char:EOLhyphen"/>ouſneſs, unto them that are Exerciſed thereby,</p>
+               <bibl>Heb. 12.11.</bibl>
+            </q>
+            <q>
+               <p>Bodily Exerciſe profiteth little: but Godlineſs is profitable unto all things, having the promiſe of the life that now is, and that which is to Come,</p>
+               <bibl>1 Tim. 4.8.</bibl>
+            </q>
+            <p>Printed in the Year, 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40566:2"/>
+            <!-- PDF PAGE 103 -->
+            <pb n="3" facs="tcp:40566:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <head>The Exerciſe of the Spirit in Spiritual Things, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>IN Dear and tender Love, do I communicate theſe things following unto you; who have travelled and are Witneſſes with me herein: and not only unto you my Friends is this given forth, but in that univerſal Spirit and love of God, really in<g ref="char:EOLhyphen"/>tended for the good of all People; and more e<g ref="char:EOLhyphen"/>ſpecially unto thoſe whoſe deſires are real and ſincere after the living God, and his Eternal Truth.</p>
+            <p>And be it further known unto all, that great hath been the work of the Lord in this the day of his Power; and many the great and weighty Exerciſes, that the dear Chil<g ref="char:EOLhyphen"/>dren and People of the Lord hath been Exerciſed in, ſince God in his Everlaſting Love, did firſt Viſit our Souls, and Convince us of our loſt and undone State and Con<g ref="char:EOLhyphen"/>dition, becauſe of Sin, and Tranſgreſſion, which we had long lived and delighted in for many Years; yea, I ſay, when the Lord our God did firſt awake our Souls out of Sin, and call us to Repentance by his Light and Spirit in our Conſciences; Oh, then was the time of Sore. Tra<g ref="char:EOLhyphen"/>vel, and great Lamentation, and Mourning, finding our Souls in a loſt and undone Condition, without a Saviour: Till at length God in his infinite Love, and great Mercy, unto our Immortal Souls opened a door of hope unto us; even that great Miſtery that was hid from Ages and Genera<g ref="char:EOLhyphen"/>tions, but now made known unto us, the believing Gen<g ref="char:EOLhyphen"/>tiles, Chriſt in you the hope of Glory; and believing in him, and joyning to his Light which ſhined in our hearts, our faith and hope increaſes more and more: and though
+<pb n="4" facs="tcp:40566:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 104 -->at the firſt, this our Eſtate was not joyous unto us; yet afterwards it brought forth the peaceable fruits of Righte<g ref="char:EOLhyphen"/>ouſneſs as we were Exerciſed thereby.</p>
+            <p>Firſt then, As one of thoſe good and peaceable fruits of Righteouſneſs that was brought forth, in this our ſore travel and Exerciſe in Spirit; the Lord did beget a true tender breathing deſire in our Hearts and Souls after him<g ref="char:EOLhyphen"/>ſelf, and the true knowledge of his way: which deſire in us could no way be ſatisfyed by any external viſible thing, but our Souls and Spirits ſtill breathed and thirſted after him, as the thirſty Hart after the water Brooks; yea, more then after our daily Food: until the Lord in his good time ſatisfyed our <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ungring Souls with good things, and did Adminiſter Reſt and Peace unto our troubled Spirits.</p>
+            <p n="2">2. Another good and peaceable fruit was brought forth, the Holy fear of the Lord; and Oh, the Awe, and Dread, and Fear, that was upon us, in the time of our firſt Convincement. And not only of things unlaw<g ref="char:EOLhyphen"/>ful, but even thoſe things that were lawful in themſelves, and in meat, drink, and apparrel, buying, ſelling, and otherwiſe; and if I ſhould here declare and ſpeak, of what God hath made ſome of us Witneſſes of, there is many that could not believe: But this we may ſay, as we have been kept in this holy fear, we have been preſerved out of much Evil; And as the fear of God increaſed in us, the fear of Man deceaſed: and we grew bold and ſtrong in the Lord.</p>
+            <p n="3">3. Another good and peaceable fruit, the Lord did not only beget good deſires in our hearts, and a fear to offend him, but he hath alſo raiſed a love in our Souls unto him and his precious Truth; which love did far exceed our love to all Natural and Earthly things. So that by this love we have been Conſtrained to part with all other things, tho formerly never ſo near and dear unto us: yea, I ſay, becauſe of that ſuperabounding and over-coming love which God had ſhed abroad in our hearts.</p>
+            <p n="4">
+               <pb n="5" facs="tcp:40566:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 104 -->
+4. Another good and peaceable fruit hath been Exp<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rienced; Oh how hath the mighty power of the Lor<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> broken our hard Hearts, and Mollified, and Tendred ou<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spirits in a deep ſence of our own Nothingneſs, and God<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great love and mercy unto our Souls; yea, with wha<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mourning and Lamentation have we beſought the Lor<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many time in ſecret, going weeping on our way, and ſeeking the way to Zion with our faces Thither-wards tho deſpiſed and rejected of the world, yet the Lord hath remembred us in this our low Eſtate: and turned ou<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mourning into Joy, and our heavineſs into rejoycing Yea, he hath bound up the Broken-Hearted, and com<g ref="char:EOLhyphen"/>forted the ſorrowful Soul: Bleſſed be his holy Name.</p>
+            <p n="5">5. Another good and peaceable fruit was brough<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forth, that true Humility and ſelf denial, when we be<g ref="char:EOLhyphen"/>came little and low in our own Eyes, and of mean Ac<g ref="char:EOLhyphen"/>count in the Eyes of the World; being made willing to do, or to ſuffer any thing for the Lord and his Truth thinking no Pains too much, nor Labour too hard, that w<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> might meet with the beloved of our Souls; waiting and depending upon the Lord alone, that he which ha<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thrown down, would raiſe up again: and he that ha<gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> kill'd, would make alive: and he that <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wounded <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſin, that he would ſeal our wounded Spirits. And how hath he poured Oyl into our wounds, and lift up th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hands that hung down, and ſtrengthened the feeble Knee<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and been a preſent help unto us in the time of our grea<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>eſt need.</p>
+            <p n="6">6. Another good and peaceable fruit was <hi>Experien<g ref="char:EOLunhyphen"/>ced</hi> in this our holy <hi>Exerciſe</hi> in Spirit, that tho our Peace was loſt, yea, that Peace we had in our former vai<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Converſation in the World, while we lived and delighte<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> therein; in their worſhip and going after their Teacher<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and in the Forms, Faſhions, Cuſtoms, and followſhip
+<pb n="6" facs="tcp:40566:4"/>
+               <!-- PDF PAGE 105 -->thereof, and not redeemed therefrom; neither knowing the true Worſhip, nor right Teachers, nor yet the the holy Union and fellowſhip in the holy Spirit, until the Lord by his dreadful and awakning Call, reached unto our Hearts, and gave our Spirits no reſt, often moving of us to come out from among them, leaſt we die in our Sins; to come out of our vain Converſation, and come into the Holy Life and Godly Converſation: to come out of their Wor<g ref="char:EOLhyphen"/>ſhip, and to come into the true Spiritual Worſhip; which Chriſt himſelf had ſet up and Eſtabliſhed above Sixteen Hundred Years ſince, <hi>Jo.</hi> 4. which is in the Spirit, and in the Truth: and to come out from their Teachers unto that Teacher, that cannot be removed into a Corner. <hi>Iſa.</hi> 30.20. And know the Lord to be your Teacher, which was and is the Teacher of his People in all Ages and Generations. <hi>Gen.</hi> 15.1. <hi>Iſa.</hi> 54.13. <hi>Jer.</hi> 31.33, 34. <hi>Heb.</hi> 8.10, 11.</p>
+            <p>And ſo come out of the Forms, Faſhions, Cuſtoms, and Fellowſhips of the World into the Saints Fellowſhip, which the Apoſtle declares of, 1 <hi>Jo.</hi> 1.3, 5. <hi>That which we have ſeen and heard, declare we unto you: that ye alſo may have fellowſhip with us;</hi> and truly our fellowſhip is with the Father and his Son Jeſus Chriſt. And as we hearken<g ref="char:EOLhyphen"/>ed unto this Holy Call, and obeyed the Spirits Motions, we came to know the right way, and walking therein. Then we which had long doubted in Religion, and Worſhip, came to be fully ſatisfyed and reſolved.</p>
+            <p>Having often livingly enjoyed Gods Heavenly power and divine Preſence, in our bleſſed Aſſemblies, and Meet<g ref="char:EOLhyphen"/>ings to our great Comfort, Souls Satisfaction, and Refreſh<g ref="char:EOLhyphen"/>ment; and thus we came to diſcern between the pretious and the vile, both in our ſelves and others; and thoſe that had the form of Godlineſs, from them that had the power: and turning away from them that had the form
+<pb n="7" facs="tcp:40566:4"/>
+               <!-- PDF PAGE 105 -->only, being made witneſſes of the power, and then com<g ref="char:EOLhyphen"/>ing out from the Worlds fellowſhip both of Profeſſors and Profane, and into the true Unity and fellowſhip in the Ho<g ref="char:EOLhyphen"/>ly Spirit, and waiting low therein, our peace did ſpring and increaſe like good <hi>David,</hi> who ſaid, <hi>Great peace have they that love thy Law, and nothing ſhall offend them.</hi> And then we witneſſed the ſaying of Chriſt fulfilled in our hearts, My peace I give unto you, not as the world gives peace, the worlds peace often ariſing from the increaſe and injoy<g ref="char:EOLhyphen"/>ment of worldly things; like that rich man ſpoken of by Chriſt, <hi>Luke</hi> 12.19. Which had goods laid up for many Years, ſaid, Soul take thy eaſe: but that peace Chriſt gives unto his, is divine and ſpiritual; ariſing from a living ſenſe and feeling of the love and favour of God, through Jeſus Chriſt our Saviour, and Reconciliation unto him thereby.</p>
+            <p n="7">7. Another good and peaceable fruit hath followed a holy War, made in truth and Righteouſneſs, againſt thoſe great and grand Enemies of our Souls, the Devil, the world and the fleſh; and all that doth ſpring up and ariſe from theſe evil grounds, and would make a Separation between our Souls and the Lord, and grieve and offend his holy Spirit, againſt theſe our Spiritual Enemies, and no other, daily do we make war.</p>
+            <p>And our weapons are not Carnal but Spiritual, yea, mighty and powerful for the ſubduing and overcoming of the man of ſin.</p>
+            <p>And as for carnal weapons, we have laid them down long ſince, and can no more take them up again, having made them uſeleſs and unfit for that ſervice, according to that Antient Propheſie of old, and now in a good mea<g ref="char:EOLhyphen"/>ſure fulfill'd in many in this our day, <hi>Iſa.</hi> 2.4. <hi>They ſhall beat their Swords into Plowſhares, and their Spears into prun<g ref="char:EOLhyphen"/>ing Hooks, and learn war no more.</hi>
+            </p>
+            <p>And bleſſed be the God of Heaven that hath redeemed
+<pb n="8" facs="tcp:40566:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 106 -->our minds out of Wars and fighting, and brought us to live and dwell <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n love and peace with all Men, according to Chriſts Doctrine, <hi>Mat.</hi> 
+               <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>.44. where he ſaith, <hi>Love your Enemies, bleſs them them that curſe <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou, and do good to them that hate you; and pray for them that de<g ref="char:EOLhyphen"/>ſpitefully uſe you, and perſecute you:</hi> and herein we have found much Peace and Comfort to our Souls, praiſes to the God of peace.</p>
+            <p n="8">8. Another good and peaceable fruit hath been <hi>Experienced,</hi> that tho ſorrow and ſadneſs did continue upon us for a time, yet joy and gladneſs followed: yea, that joy that did exceed the joy of Harveſt; being of that heavenly quality, to aſcend upwards with high praiſes to the God of Heaven: ſinging and making Melody in our hearts unto the Lord. And according to <hi>David,</hi> that Man of G<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, who in his experience ſaith, <hi>Light is ſowen for the Righteous, and joy for the upright in Heart;</hi> and how did Chriſt comfort and en<g ref="char:EOLhyphen"/>courage his, before his departure from them, <hi>John.</hi> 16. telling them they ſhall be ſorrowful, but ſaith he, <hi>Your ſorrow ſhall be turned into Joy, and I will ſee you again: and your heart ſhall rejoyce; and your joy no Man taketh from you:</hi> as he had ſaid unto them before. It is expedi<g ref="char:EOLhyphen"/>ent for you, that I go away: for if I go not away, the comforter will not come unto you; but if I depart, I will ſend him unto you. Oh the great love and tender care of Chriſt over his little Flock, and many <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re made witneſſes hereof in this our day, praiſes to our God for ever.</p>
+            <p n="9">9. Another good and peaceable fruit hath been witneſſed, a <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oly growth and bleſſed increaſe unto God in that great work of Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eneration, and Sanctification; for nothing doth more make for <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his our inward and ſpiritual growth in the things of God, then this <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur ſpiritual <hi>Exerciſe:</hi> this is not like that outward and bodily ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſe the Apoſtle ſpeaks of, that profiteth little: but here is true God<g ref="char:EOLhyphen"/>neſs which is profitable unto all things, having the promiſe of the <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fe that now is, and that which is to come.</p>
+            <p>
+               <hi>Laſtly;</hi> Another good and peaceable fruit hath been brought forth <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many, whoſe hearts, and minds, ſouls, and ſpirits, are come to be <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tled, and eſtabliſhed upon that ſure Rock againſt all the temptati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns and aſſaults of the Enemies of their ſouls peace, both inwardly <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd outwardly; and theſe are the grown members of the true Church of Chriſt, againſt which the gates of Hell do not prevail; Glory, glory, to our God, and Father of our Lord Jeſus Chriſt both <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow and for evermore, Amen.</p>
+            <closer>
+               <dateline>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom <hi>Dailehead</hi> near <hi>
+                     <gap reason="illegible: damage" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſwick</hi> 
+                  <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </dateline>
+               <signed>
+                  <add>Tho<hi rend="sup">s</hi> Laythes</add> Given forth from that experi<g ref="char:EOLhyphen"/>ence God hath given me of <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
